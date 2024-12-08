@@ -10,5 +10,7 @@ print('Toc toc.')
 input()
 print("Qui est là ?")
 input()
+
+# Le paramètre clavier
 print('Le chat qui interromptt MIA' , end='')
 print('-OU !')
